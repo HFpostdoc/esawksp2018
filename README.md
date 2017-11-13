@@ -31,12 +31,11 @@ specific outputs. By focusing on the results and code you want,
 figuring out your
 code. [encapsulator](https://github.com/ProvTools/encapsulator)
 provides an related tool that also uses provenance to isolate data and
-code to create a "capsule" that provides a virtual environment that
-recreates the computational environment you used to conduct an
-analysis or simulation study. This tools will enable attendees to
-apply software and project curation "best practices" in a manner that
-leverages the power of the computational environment in which they're
-already working.
+code to create a self contained environment, or "capsule," with all of
+the data, code and software dependencies necessary to recreate an
+analysis. These tools will enable attendees to apply software and
+project curation "best practices" in a manner that leverages the power
+of the computational environment in which they're already working.
 
 Summary sentence (appears in print program only; 50 word max.)
 
@@ -57,7 +56,7 @@ Aaron M. Ellison, Harvard University, Harvard Forest, aellison@fas.harvard.edu
 
 Maximum number of participants (to assist in room assignment)
 
-20 people
+15 people
 
 Requested day and time:
 1 = Sunday morning (8:00 – 11:30 AM; 3.5 hours)
