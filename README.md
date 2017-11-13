@@ -15,7 +15,7 @@ max.)
 Have you ever written a long script that conducts oodles of analyses
 and wished that someone would come along and make it all clearer to
 understand and use? Well you’re not alone. A recent survey of over
-1500 scientists reported a crisis of reproducibility with "slective
+1500 scientists reported a crisis of reproducibility with "selective
 reporting" being the most cited contributing factor and 80% saying
 code availability is playing a role. In this workshop, we'll discuss
 common issues in scientific transparency related to analytical
@@ -78,7 +78,7 @@ Anticipated equipment needs: None, wireless internet connection, flip
 chart and easel.
 
 Wifi. 
-Ovehead projector.
+Overhead projector.
 
 Do you have funding to pay for food, beverages, extra A/V equipment,
 or other costs of running this workshop? What is the source of the
