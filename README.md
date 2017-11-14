@@ -7,7 +7,7 @@ Components of a workshop proposal
 
 Session title
 
-Code cleaning and encapsulation for R and Python
+Analytical code cleaning and encapsulation for R and Python
 
 Session description (appears in the online program only; 250 words
 max.)
