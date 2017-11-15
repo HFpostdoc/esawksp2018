@@ -19,17 +19,17 @@ understand and use? Well you’re not alone. A recent survey of over
 reporting" being the most cited contributing factor and 80% saying
 code availability is playing a role. In this workshop, we'll discuss
 common issues in scientific transparency related to analytical
-software and train attendees in how to use the **cleanR** and
-**encapsulator** packages that have been created to help scientists
-more *easily* write and share "cleaner"
-code. [cleanR](https://github.com/ProvTools/cleanR) provides a simple
+software and train attendees in how to use the <b>cleanR</b> and
+<b>encapsulator</b> packages that have been created to help scientists
+more <i>easily</i> write and share "cleaner"
+code. <link rel="cleanR" href="https://github.com/ProvTools/cleanR"> provides a simple
 way get the code you need to produce the results you want. uses data
 provenance to capture what your code actually does when it’s running
 and then allows you to pull out the essential code that produces
 specific outputs. By focusing on the results and code you want,
-**cleanR** let’s you spend more time on your science and less on
+<b>cleanR</b> let’s you spend more time on your science and less on
 figuring out your
-code. [encapsulator](https://github.com/ProvTools/encapsulator)
+code. <link rel="encapsulator" href="https://github.com/ProvTools/encapsulator">
 provides an related tool that also uses provenance to isolate data and
 code to create a self contained environment, or "capsule," with all of
 the data, code and software dependencies necessary to recreate an
@@ -39,12 +39,11 @@ of the computational environment in which they're already working.
 
 Summary sentence (appears in print program only; 50 word max.)
 
-Do you write analytical code but struggle to share it with others?
+Do you write analytical code but struggle to share or re-use it?
 You're not alone. A recent survey of 1500+ scientists reported a
-reproducibility crisis with 80% citing inadequate code
-transparency. We'll discuss these issues and introduce two packages,
-**cleanR** and **encapsulator**, designed to help scientists write and
-share code.
+reproducibility crisis, 80% citing inadequate code. We'll discuss
+these issues and introduce two packages, <b>cleanR</b> and
+<b>encapsulator</b>, that help scientists write better code.
 
 A lead organizer (Required; name, institution, and email).
 
